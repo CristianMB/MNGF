@@ -1,0 +1,18 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {section}{\numberline {2}About the Device}{5}
+\contentsline {subsection}{\numberline {2.1}Structure}{5}
+\contentsline {subsection}{\numberline {2.2}Operation}{5}
+\contentsline {section}{\numberline {3}Theoretical Framework}{8}
+\contentsline {subsection}{\numberline {3.1}Josephson Effect}{9}
+\contentsline {subsection}{\numberline {3.2}Tight Binding Model}{10}
+\contentsline {subsection}{\numberline {3.3}Landauer Formalism}{11}
+\contentsline {subsubsection}{\numberline {3.3.1}Transmission function calculation}{11}
+\contentsline {subsubsection}{\numberline {3.3.2}Currents calculation}{12}
+\contentsline {section}{\numberline {4}One Dimensional Tight Binding Model}{13}
+\contentsline {subsection}{\numberline {4.1}Energy Spectra and Density of States (DoS)}{13}
+\contentsline {subsection}{\numberline {4.2}Numerical Current Calculation}{22}
+\contentsline {section}{\numberline {5}Russek Model of Stochastic Josephson Junctions}{24}
+\contentsline {subsection}{\numberline {5.1}RSJ Model}{24}
+\contentsline {subsection}{\numberline {5.2}RSJ Model With Order Parameter Dependency}{27}
+\contentsline {section}{\numberline {6}Conclusion}{28}
